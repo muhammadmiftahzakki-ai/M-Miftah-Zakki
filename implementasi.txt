@@ -176,4 +176,3 @@ Fitur ini membantu pengguna memantau seluruh aktivitas pembayaran secara real-ti
 Implementasi sistem pembayaran digital dilakukan dengan mengintegrasikan teknologi transaksi elektronik, keamanan data, payment gateway, QRIS, dan database secara terhubung. Sistem ini memungkinkan proses pembayaran berjalan lebih cepat, aman, praktis, dan efisien.
 
 Dengan adanya implementasi pembayaran digital, masyarakat dapat melakukan berbagai transaksi secara cashless serta mendukung perkembangan ekonomi digital di Indonesia.
-
